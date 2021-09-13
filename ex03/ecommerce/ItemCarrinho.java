@@ -1,4 +1,4 @@
-package ex03.ecommerce;
+package ecommerce;
 
 public class ItemCarrinho {
     
